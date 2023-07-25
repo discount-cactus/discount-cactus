@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on reverse engineering the Saturn V flight computer - the LVDC
 - 🧮 I'm currently learning about computer architecture
-- 👨‍🏫 I’m currently a graduate electrical engineering student at the University of Houston
+- 👨‍🏫 I’m currently a graduate electrical engineering student at the Purdue University
 - 🤔 I’m currently interested in PCB design, microcontroller design and rocket engines
 - 🪐 Ask me about space
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brandon-lantau/)
