@@ -11,4 +11,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brandon-lantau/)
 - ⚡ Fun fact: I also make video games but don't post them here
 
-![IMG_7345](https://github.com/discount-cactus/discount-cactus/assets/113632274/b1de7c05-1e1e-4359-972a-63336cbdd242)
+<img width="834" alt="Screen Shot 2023-09-16 at 5 03 31 PM" src="https://github.com/discount-cactus/discount-cactus/assets/113632274/ae58d2ae-2ca8-4d7c-b2c6-3b731ea6af4f">
