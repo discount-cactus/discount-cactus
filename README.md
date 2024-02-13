@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on reverse engineering the Saturn V flight computer - the LVDC
-- 🧮 I'm currently learning about computer architecture
+- 🔭 I’m currently working on a replica of the Saturn V flight computer - the LVDC
+- 🧮 I'm currently learning about embedded system design
 - 👨‍🏫 I’m currently a graduate electrical engineering student at the Purdue University
 - 🤔 I’m currently interested in PCB design and microcontroller design
 - 🛸 Eventually I want to learn about FPGA's and RF
