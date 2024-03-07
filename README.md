@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a replica of the Saturn V flight computer - the LVDC
 - 🧮 I'm currently learning about embedded system design
 - 👨‍🏫 I’m currently a graduate electrical engineering student at the Purdue University
-- 🤔 I’m currently interested in PCB design and microcontroller design
+- 🤔 I’m currently interested in microcontrollers
 - 🛸 Eventually I want to learn about FPGA's and RF
 - 🪐 Ask me about space
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brandon-lantau/)
