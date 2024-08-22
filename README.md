@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a replica of the Saturn V flight computer - the LVDC
+- 🔭 I’m currently working on an open-source compute module!
 - 🧮 I'm currently learning about embedded system design
 - 👨‍🏫 I’m currently a graduate electrical engineering student at the Purdue University
 - 🤔 I’m currently interested in microcontrollers
