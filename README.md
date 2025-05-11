@@ -9,6 +9,5 @@
 - 🛸 Eventually I want to learn about FPGA's and RF
 - 🪐 Ask me about space
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/brandon-lantau/)
-- ⚡ Fun fact: I also make video games but don't post them here
 
-<img width="834" alt="Screen Shot 2023-09-16 at 5 03 31 PM" src="https://github.com/discount-cactus/discount-cactus/assets/113632274/ae58d2ae-2ca8-4d7c-b2c6-3b731ea6af4f">
+![Screenshot 2025-04-10](https://github.com/user-attachments/assets/1333a450-1937-4b51-9bcc-801dd4526b7d)
